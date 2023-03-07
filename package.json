@@ -1,0 +1,11 @@
+{
+  "name": "world-of-node",
+  "version": "1.0.0",
+  "description": "A more knowledge on Node's world, and discovering the depth of it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Abdelkader",
+  "license": "MIT"
+}
