@@ -16,5 +16,9 @@ REDISCOVERING THE WORLD OF NODE.JS
 a system call (commonly abbreviated to syscall) is the programmatic way in which a computer program requests a service from the operating system
  </p>
 
+<p>
+ There are three different ways to create files using Node.js which are: 
+1)	Promises API 2) Callback API 3) Sync API
+</p>
 
 
