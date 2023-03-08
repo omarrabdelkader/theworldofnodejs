@@ -10,7 +10,7 @@ REDISCOVERING THE WORLD OF NODE.JS
 
 <h3> File System </h3>
 
-<h4> What is File? </h4>
+<h4> What is a file? </h4>
 <p>A file is an object on a computer that stores data, information, settings, or commands used with a computer program. File is a sequence of bits.</p>
 <p>Node.js talks to your OS using System Calls, and your OS does some tasks for you. Imagine you want to open up a file, you call a system call and you say I want to do that. So, we will be using the open() system call. Node uses libuv to call this system call.
 a system call (commonly abbreviated to syscall) is the programmatic way in which a computer program requests a service from the operating system
