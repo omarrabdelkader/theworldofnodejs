@@ -2,6 +2,6 @@
 REDISCOVERING THE WORLD OF NODE.JS
 </h1>
 
-> You can never understand everything. But, you should push yourself to understand the system.
+> You can never understand everything. But, you should push yourself to understand the system.- Rydan Dahl, the creator of Node.js
 
 
