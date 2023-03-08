@@ -22,3 +22,9 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
 </p>
 
 
+ 
+ <h4>1)	Watch() in FS (File System)</h4>
+<p>The fs.watch() method is an inbuilt application programming interface of fs module which is used to continuously watch for changes in the given file or directory. It returns a fs.FSWatcher object that can be used to track the changes in the file.</p>
+
+
+
