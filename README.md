@@ -24,6 +24,7 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
 <li>Callback API</li>
 <li>Sync API</li>
 <ul>
+ 
 <img src="https://i.ibb.co/G9ZYLpN/Screenshot-2023-03-09-135400.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
 
