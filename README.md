@@ -9,6 +9,7 @@ REDISCOVERING THE WORLD OF NODE.JS
 
 <a>https://youtu.be/GVLw17FNZ3A</a>
 
+---------------------------------------
 
 <h4> What is Node.js? </h4>
 <p>
@@ -26,8 +27,15 @@ V8 is Google’s open source high-performance JavaScript and WebAssembly engine,
  
  <img src="https://i.ibb.co/gwVfN2j/Screenshot-2023-03-09-191358.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
+     
+
+<h4> How do you read a file in your computer using Node.js? </h4>
+<p>
+Using V8, Event Loop (for the async) and libuv to transfer the action into machine code to the storage.</p>
 <h3> File System </h3>
 
+ <img src="https://i.ibb.co/GRtmMLD/Screenshot-2023-03-09-192317.png"  alt="how to create files using Node.js"
+     style="width: 400px; margin: 20px;">
 <h4> What is a file? </h4>
 <p>A file is an object on a computer that stores data, information, settings, or commands used with a computer program. File is a sequence of bits.</p>
 <p>Node.js talks to your OS using System Calls, and your OS does some tasks for you. Imagine you want to open up a file, you call a system call and you say I want to do that. So, we will be using the open() system call. Node uses libuv to call this system call.
