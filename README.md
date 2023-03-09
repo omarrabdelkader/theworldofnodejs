@@ -8,6 +8,18 @@ REDISCOVERING THE WORLD OF NODE.JS
 <p>Hello, world. This is a project for me to re-discover Node.js, as I have developing in this technology for a long time. However, I believe that I'm in need to re-discover the core of Node. Moreover, I have been studying this exceptional course by Cododev which educates how Node.js works behind the scenes. I will be leaving the link of the playlist on Youtube.</p>
 
 <a>https://youtu.be/GVLw17FNZ3A</a>
+
+
+<h4> What is Node.js? </h4>
+<p>
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others.</p>
+
+<h4> What is a JavaScript engine?</h4>
+<p>
+JavaScript is not understandable by computer but the only browser understands JavaScript. So, we need a program to convert our JavaScript program into computer-understandable language. A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language
+ </p>
+ 
+ 
 <h3> File System </h3>
 
 <h4> What is a file? </h4>
