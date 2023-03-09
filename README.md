@@ -35,5 +35,7 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
 
 <img  src="https://i.ibb.co/jLDDxxf/Screenshot-2023-03-09-142706.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
- <img  [src="https://i.ibb.co/jLDDxxf/Screenshot-2023-03-09-142706.png"](https://i.ibb.co/ydcLDCm/Screenshot-2023-03-09-142718.png) alt="how to create files using Node.js"
+ <img  src="https://i.ibb.co/ydcLDCm/Screenshot-2023-03-09-142718.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
+ 
+ <p>So, each event is an object, which contains two keys: eventType and filename. </p>
