@@ -39,3 +39,10 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
      style="width: 400px; margin: 20px;">
  
  <p>So, each event is an object, which contains two keys: eventType and filename. </p>
+ 
+ <h4>What is a fileHandle object?</h4>
+<p>It is an object wrapper for a numeric file descriptor. An instance of a fileHandle class are created by fs.open() method. All fileHandl objects are eventEmitter objects.</p>
+
+<p>File descriptor: A file descriptor is a number that uniquely identifies an open file in a computer's operating system. It describes a data resource, and how that resource may be accessed. Something like ID.</p>
+ <p>The read method reads data from the file and stores that in the given buffer.</p>
+
