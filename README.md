@@ -19,7 +19,7 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
 <h4>
  There are three different ways to create files using Node.js which are: 
 </h4>
-<ul>
+<ul style="margin-bottom: 20px">
 <li>Promises API</li>
 <li>Callback API</li>
 <li>Sync API</li>
