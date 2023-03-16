@@ -169,7 +169,9 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
 
  <img  src="https://i.ibb.co/X3wCcbB/Screenshot-2023-03-09-143238.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
+ 
  <img  src="https://i.ibb.co/NrjQ05B/Screenshot-2023-03-09-143250.png" alt="how to create files using Node.js"
      style="width: 400px; margin: 20px;">
+ 
  <p>Each character inside of the command.txt represents 1 byte. Also, remember each byte equals 8 bits. Any changed will be added in a new object.</p>
  <p>The byteRead key represents how many characters are inside of the file. </p>
