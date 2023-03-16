@@ -35,6 +35,7 @@ Using V8, Event Loop (for the async) and libuv to transfer the action into machi
  <img src="https://i.ibb.co/GRtmMLD/Screenshot-2023-03-09-192317.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
 
+-------------------------
 
 <h4>Understanding EventEmitter in Node.js</h4>
 <img src="https://i.ibb.co/Sm4ThP5/Screenshot-2023-03-16-221636.png"  alt="how to create files using Node.js"
@@ -49,7 +50,45 @@ Much of the Node.js core API is built around an idiomatic asynchronous event-dri
      style="width: 600px; margin: 20px;">
  
  <p>In Node.js we perform same actions; you define event (foo) and you issue commands (emit) and you wait until it responds back.</p>
+ 
+ 
+ <h4>What happens when you call the on method from the emitter1?</h4>
+ <p>
+ All objects that emit events are instances of the EventEmitter class. These objects expose an eventEmitter.on() function that allows one or more functions to be attached to named events emitted by the object. Typically, event names are camel-cased strings but any valid JavaScript property key can be used.
 
+When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded.
+</p>
+
+<img src="https://i.ibb.co/hBnKRkv/Screenshot-2023-03-16-222108.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+
+<h4>What happens when you emit a specific function inside of the object?</h4>
+<p>It will emit a specific function out of the object, so it can work.</p>
+
+
+<img src="https://i.ibb.co/QNpkwXw/Screenshot-2023-03-16-222120.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+     
+     
+ <h4>What is the once method?<h4>
+ <p>The once method is used if you want to execute a function only once, even if it has been emitted more than once.</p>
+ 
+ <img src="https://i.ibb.co/MV3KKDP/Screenshot-2023-03-16-222137.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+ 
+ <h4>What is eventNames() method?</h4>
+ <p>Returns an array listing the events for which the emitter has registered listeners. The values in the array are strings or Symbols.</p>
+  <img src="https://i.ibb.co/Tc8TN1q/Screenshot-2023-03-16-222155.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+ 
+ <h4>Source code of events?</h4>
+
+   <img src="https://i.ibb.co/SvcWnBY/Screenshot-2023-03-16-222210.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+    <img src="https://i.ibb.co/nkfCB8Y/Screenshot-2023-03-16-222227.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+   <img src="https://i.ibb.co/HV4ZF5J/Screenshot-2023-03-16-222243.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
 ----------------------
 <h3> File System </h3>
      
