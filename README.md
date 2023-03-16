@@ -108,8 +108,8 @@ When the EventEmitter object emits an event, all of the functions attached to th
      <img src="https://i.ibb.co/ZTmFMCq/Screenshot-2023-03-16-223734.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
- <p>
-  Each 0 means a byte.
+
+ <p>  Each 0 means a byte.
 Pushing data into the buffer.
  </p>
  
