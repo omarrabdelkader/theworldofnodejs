@@ -89,6 +89,8 @@ When the EventEmitter object emits an event, all of the functions attached to th
      style="width: 600px; margin: 20px;">
    <img src="https://i.ibb.co/HV4ZF5J/Screenshot-2023-03-16-222243.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
+ 
+ > source: https://www.freecodecamp.org/news/how-to-code-your-own-event-emitter-in-node-js-a-step-by-step-guide-e13b7e7908e1/
 ----------------------
 <h3> File System </h3>
      
