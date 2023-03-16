@@ -34,7 +34,22 @@ V8 is Google’s open source high-performance JavaScript and WebAssembly engine,
 Using V8, Event Loop (for the async) and libuv to transfer the action into machine code to the storage.</p>
  <img src="https://i.ibb.co/GRtmMLD/Screenshot-2023-03-09-192317.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
-     
+
+
+<h4>Understanding EventEmitter in Node.js</h4>
+<img src="https://i.ibb.co/Sm4ThP5/Screenshot-2023-03-16-221636.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+<p>
+These two orange figures are threads. Each thread can do only one thing once. So, how can it handle it? Only two ways: sync or async
+If we choose the sync method: one of these two threads will constantly check the keyboard if it has performed an action, which will kill one of these threads. 
+If we choose the async method: we could define an event-driven, in which we issue an event that goes to the CPU whenever we press on the keyboard, let one of the threads known that we have performed an action.
+Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") emit named events that cause Function objects ("listeners") to be called.
+</p>
+<img src="https://i.ibb.co/c1dpq2t/Screenshot-2023-03-16-221742.png"  alt="how to create files using Node.js"
+     style="width: 600px; margin: 20px;">
+ 
+ <p>In Node.js we perform same actions; you define event (foo) and you issue commands (emit) and you wait until it responds back.</p>
+
 ----------------------
 <h3> File System </h3>
      
