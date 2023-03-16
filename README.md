@@ -115,6 +115,7 @@ Pushing data into the buffer.
  
       <img src="https://i.ibb.co/6WhxBzs/Screenshot-2023-03-16-223800.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
+ 
        <img src="https://i.ibb.co/M73HN03/Screenshot-2023-03-16-223816.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
