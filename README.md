@@ -5,7 +5,7 @@ REDISCOVERING THE WORLD OF NODE.JS
 > <em>You can never understand everything. But, you should push yourself to understand the system.- Rydan Dahl, the creator of Node.js</em>
 
 <h2>INTRODUCTION</h2>
-<p>Hello, world. This is a project for me to re-discover Node.js, as I have developing in this technology for a long time. However, I believe that I'm in need to re-discover the core of Node. Moreover, I have been studying this exceptional course by Cododev which educates how Node.js works behind the scenes. I will be leaving the link of the Youtube playlist.</p>
+<p>Hello, world. This is a project to re-discover the world of Node.js, as I have been developing in this technology for a year now. However, I believe that I'm in need to reach the core of Node. Moreover, I have been studying this exceptional course by Cododev which educates how Node.js works behind the scenes. I will be leaving the link of his Youtube playlist.</p>
 
 <a>https://youtu.be/GVLw17FNZ3A</a>
 
