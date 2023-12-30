@@ -195,13 +195,10 @@ Each character in `command.txt` represents 1 byte, and changes result in new obj
 
 The `fs.stat()` method returns information about the given file or directory.
 
-<p align="center">
-  <img src="https://i.ibb.co/RHvMzn0/Screenshot-2023-12-30-130222.png" alt="Stat Method">
-</p>
 
 <p align="center">
-<!--   <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png" alt="Screenshot 2"></a>
-   -->
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png" alt="Screenshot 2"></a>
+  
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/mShxV2H/Screenshot-2023-12-30-130825.png" alt="Screenshot 3"></a>
   <a href="https://ibb.co/kQrh1FB"><img src="https://i.ibb.co/syDFHrR/Screenshot-2023-12-30-130853.png" alt="Screenshot 4"></a>
 </p>
