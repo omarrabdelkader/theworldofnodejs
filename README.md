@@ -16,20 +16,24 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine—a high-
 
 JavaScript is not understandable by computer but the only browser understands JavaScript. So, we need a program to convert our JavaScript program into computer-understandable language. A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
 
-## What is V8?
-
-V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
-
 <p align="center">
   <a href="https://imgbb.com/">
     <img src="https://i.ibb.co/q7HBPv0/Screenshot-2023-12-30-212713.png" alt="Screenshot-2023-12-30-212713" border="0">
   </a>
 </p>
 
+## What is V8?
 
+V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
+
+So, it means that you’re running C++ code behind the scenes. You write some functions, then you bind it with V8.
 <p align="center">
   <img src="https://i.ibb.co/gwVfN2j/Screenshot-2023-03-09-191358.png" alt="V8 Engine">
 </p>
+
+## What is ECMAScript?
+ECMAScript is a JavaScript standard intended to ensure the interoperability of web pages across different browsers. It defines how should a syntax of scripting language work. 
+
 
 ## Reading a File with Node.js
 
