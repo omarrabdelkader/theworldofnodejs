@@ -74,7 +74,9 @@ Node.js performs actions by defining events, issuing commands, and waiting for r
 
 ### What happens with `on` method?
 
-When an EventEmitter emits an event, all attached functions for that event are synchronously called.
+All objects that emit events are instances of the EventEmitter class. These objects expose an eventEmitter.on() function that allows one or more functions to be attached to named events emitted by the object. Typically, event names are camel-cased strings but any valid JavaScript property key can be used.
+
+When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded.
 
 <p align="center">
   <img src="https://i.ibb.co/hBnKRkv/Screenshot-2023-03-16-222108.png" alt="on Method">
