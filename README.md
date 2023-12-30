@@ -140,9 +140,10 @@ The `fs.stat()` method returns information about the given file or directory.
 
 ![Stat Method](https://i.ibb.co/RHvMzn0/Screenshot-2023-12-30-130222.png)
 
-[![Screenshot-2023-12-30-125253](https://i.ibb.co/Xxkv9ZC/Screenshot-2023-12-30-125253.png)](https://ibb.co/qYFPzMr)
-[![Screenshot-2023-12-30-130811](https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png)](https://imgbb.com/)
-[![Screenshot-2023-12-30-130825](https://i.ibb.co/mShxV2H/Screenshot-2023-12-30-130825.png)](https://imgbb.com/)
-[![Screenshot-2023-12-30-130853](https://i.ibb.co/syDFHrR/Screenshot-2023-12-30-130853.png)](https://ibb.co/kQrh1FB)
-
+<p align="center">
+  <a href="https://ibb.co/qYFPzMr"><img src="https://i.ibb.co/Xxkv9ZC/Screenshot-2023-12-30-125253.png" alt="Screenshot 1"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png" alt="Screenshot 2"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/mShxV2H/Screenshot-2023-12-30-130825.png" alt="Screenshot 3"></a>
+  <a href="https://ibb.co/kQrh1FB"><img src="https://i.ibb.co/syDFHrR/Screenshot-2023-12-30-130853.png" alt="Screenshot 4"></a>
+</p>
 
