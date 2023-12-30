@@ -34,6 +34,13 @@ So, it means that you’re running C++ code behind the scenes. You write some fu
 ## What is ECMAScript?
 ECMAScript is a JavaScript standard intended to ensure the interoperability of web pages across different browsers. It defines how should a syntax of scripting language work. 
 
+<p align="center">
+  <a href="https://ibb.co/0BfWN61">
+    <img src="https://i.ibb.co/pW3sDMN/Screenshot-2023-12-30-213029.png" alt="Screenshot-2023-12-30-213029" border="0">
+  </a>
+</p>
+
+
 
 ## Reading a File with Node.js
 
