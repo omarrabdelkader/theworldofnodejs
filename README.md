@@ -125,6 +125,9 @@ Converting a Buffer into a string using one of the above is referred to as decod
 a system call (commonly abbreviated to syscall) is the programmatic way in which a computer program requests a service from the operating system
  </p>
 
+ ![Node.js](https://i.ibb.co/RHvMzn0/Screenshot-2023-12-30-130222.png)
+
+
 <h4>
  There are three different ways to create files using Node.js which are: 
 </h4>
