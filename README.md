@@ -115,7 +115,7 @@ Converting a Buffer into a string using one of the above is referred to as decod
 
 ![How to create files using Node.js](https://i.ibb.co/tLb75Qb/Screenshot-2023-03-16-224500.png)
 
-It’s an array with a type: “Buffer,” and the data is in the decimal number system because of the JSON method. Node.js buffers accept all case variations of encoding strings that they receive. For example, UTF-8 can be specified as 'utf8', 'UTF8', or 'uTf8'.
+<p>It’s an array with a type: “Buffer,” and the data is in the decimal number system because of the JSON method. Node.js buffers accept all case variations of encoding strings that they receive. For example, UTF-8 can be specified as 'utf8', 'UTF8', or 'uTf8'. </p>
 ----------------------
 <h3> File System </h3>
      
