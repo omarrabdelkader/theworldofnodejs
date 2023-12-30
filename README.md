@@ -166,3 +166,13 @@ a system call (commonly abbreviated to syscall) is the programmatic way in which
  
  <p>Each character inside of the command.txt represents 1 byte. Also, remember each byte equals 8 bits. Any changed will be added in a new object.</p>
  <p>The byteRead key represents how many characters are inside of the file. </p>
+
+<p> Each fs has a stat method: The fs.stat() method is used to return information about the given file or directory. It returns an fs.Stat object which has several properties and methods to get details about the file or directory.</p>
+[![Screenshot-2023-12-30-125253](https://i.ibb.co/Xxkv9ZC/Screenshot-2023-12-30-125253.png)](https://ibb.co/qYFPzMr)
+
+[![Screenshot-2023-12-30-130811](https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png)](https://imgbb.com/)
+
+[![Screenshot-2023-12-30-130825](https://i.ibb.co/mShxV2H/Screenshot-2023-12-30-130825.png)](https://imgbb.com/)
+
+[![Screenshot-2023-12-30-130853](https://i.ibb.co/syDFHrR/Screenshot-2023-12-30-130853.png)](https://ibb.co/kQrh1FB)
+
