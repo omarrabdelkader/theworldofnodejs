@@ -106,6 +106,13 @@ The `once` method executes a function only once, even if emitted multiple times.
   <img src="https://i.ibb.co/Tc8TN1q/Screenshot-2023-03-16-222155.png" alt="eventNames Method">
 </p>
 
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/RvxN3vv/Screenshot-2023-12-30-213910.png" alt="Screenshot-2023-12-30-213910" border="0">
+  </a>
+</p>
+
+
 ### Source Code of Events
 
 <p align="center">
