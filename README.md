@@ -58,6 +58,12 @@ Using V8, Event Loop (for async), and libuv, Node.js reads a file, translating a
   <img src="https://i.ibb.co/Sm4ThP5/Screenshot-2023-03-16-221636.png" alt="EventEmitter">
 </p>
 
+These two orange figures are threads. Each thread can do only one thing once. So, how can it handle it? Only two ways: sync or async
+If we choose the sync method: one of these two threads will constantly check the keyboard if it has performed an action, which will kill one of these threads. 
+If we choose the async method: we could define an event-driven, in which we issue an event that goes to the CPU whenever we press on the keyboard, let one of the threads known that we have performed an action.
+
+Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") emit named events that cause Function objects ("listeners") to be called.
+
 In Node.js, the EventEmitter handles events using an asynchronous event-driven architecture. Objects emit named events, triggering functions called listeners.
 
 <p align="center">
