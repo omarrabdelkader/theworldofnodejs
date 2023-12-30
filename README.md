@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello, world! This project is an exploration to rediscover the world of Node.js. Having worked with this technology for a year, I aim to delve deeper into the core of Node.js. I've supplemented my learning with an exceptional course by Cododev, which delves into the inner workings of Node.js. You can find the course on [YouTube](https://youtu.be/GVLw17FNZ3A).
+Hello, world! This project is an exploration to rediscover the world of Node.js. Have been working with this technology for a year, I aim to delve deeper into the core of Node.js. I've supplemented my learning with an exceptional course by Cododev, which delves into the inner workings of Node.js. You can find the course on [YouTube](https://youtu.be/GVLw17FNZ3A).
 
 ---
 
