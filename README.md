@@ -102,10 +102,10 @@ When the EventEmitter object emits an event, all of the functions attached to th
  
  <p>Buffers were introduced into Node.js in order to handle binary data. Each buffer corresponds to some raw memory allocated outside V8. Buffers act somewhat like integer arrays, but aren’t sizeable.</p>
 
-    <img src="https://i.ibb.co/52vNYkS/Screenshot-2023-03-16-223721.png"  alt="how to create files using Node.js"
+  <img src="https://i.ibb.co/52vNYkS/Screenshot-2023-03-16-223721.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
-     <img src="https://i.ibb.co/ZTmFMCq/Screenshot-2023-03-16-223734.png"  alt="how to create files using Node.js"
+   <img src="https://i.ibb.co/ZTmFMCq/Screenshot-2023-03-16-223734.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
 
@@ -113,17 +113,17 @@ When the EventEmitter object emits an event, all of the functions attached to th
 Pushing data into the buffer.
  </p>
  
-      <img src="https://i.ibb.co/6WhxBzs/Screenshot-2023-03-16-223800.png"  alt="how to create files using Node.js"
+   <img src="https://i.ibb.co/6WhxBzs/Screenshot-2023-03-16-223800.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
-       <img src="https://i.ibb.co/M73HN03/Screenshot-2023-03-16-223816.png"  alt="how to create files using Node.js"
+   <img src="https://i.ibb.co/M73HN03/Screenshot-2023-03-16-223816.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
  <p>Converting a Buffer into a string using one of the above is referred to as decoding, and converting a string into a Buffer is referred to as encoding.
 When converting between Buffers and strings, a character encoding may be specified. If no character encoding is specified, UTF-8 will be used as the default. (UT8) each character in one byte. utf8' (alias: 'utf-8'): Multi-byte encoded Unicode characters. Many web pages and other document formats use UTF-8. This is the default character encoding.
  </p>
  
-        <img src="https://i.ibb.co/tLb75Qb/Screenshot-2023-03-16-224500.png"  alt="how to create files using Node.js"
+   <img src="https://i.ibb.co/tLb75Qb/Screenshot-2023-03-16-224500.png"  alt="how to create files using Node.js"
      style="width: 600px; margin: 20px;">
  
  <p>It’s an array which has a type: “Buffer”, and the data is decimal number system because of the JSON method.
