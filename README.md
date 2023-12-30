@@ -14,11 +14,18 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine—a high-
 
 ## What is a JavaScript Engine?
 
-JavaScript, not inherently understandable by computers, requires a JavaScript engine to convert the code into machine-understandable language.
+JavaScript is not understandable by computer but the only browser understands JavaScript. So, we need a program to convert our JavaScript program into computer-understandable language. A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
 
 ## What is V8?
 
-V8, Google's open-source JavaScript and WebAssembly engine, is written in C++. It implements ECMAScript and WebAssembly, running on various operating systems.
+V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
+
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/q7HBPv0/Screenshot-2023-12-30-212713.png" alt="Screenshot-2023-12-30-212713" border="0">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://i.ibb.co/gwVfN2j/Screenshot-2023-03-09-191358.png" alt="V8 Engine">
