@@ -197,8 +197,8 @@ The `fs.stat()` method returns information about the given file or directory.
 
 
 <p align="center">
+  <a href="https://ibb.co/qYFPzMr"><img src="https://i.ibb.co/Xxkv9ZC/Screenshot-2023-12-30-125253.png" alt="Screenshot 1"></a>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJFm453/Screenshot-2023-12-30-130811.png" alt="Screenshot 2"></a>
-  
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/mShxV2H/Screenshot-2023-12-30-130825.png" alt="Screenshot 3"></a>
   <a href="https://ibb.co/kQrh1FB"><img src="https://i.ibb.co/syDFHrR/Screenshot-2023-12-30-130853.png" alt="Screenshot 4"></a>
 </p>
